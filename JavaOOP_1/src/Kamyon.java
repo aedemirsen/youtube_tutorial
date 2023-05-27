@@ -1,5 +1,14 @@
 public class Kamyon extends Araba{
-    boolean yukVarMi;
+
+    private boolean yukVarMi;
+
+    public boolean getYukVarMi() {
+        return yukVarMi;
+    }
+
+    public void setYukVarMi(boolean yukVarMi) {
+        this.yukVarMi = yukVarMi;
+    }
 
     @Override
     public void tip(){

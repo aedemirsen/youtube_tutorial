@@ -43,6 +43,8 @@ public abstract class Araba implements Arac{
         return hiz;
     }
 
+    
+
 
     void markaModel(){
         System.out.println(marka + "-" + modelYili);
