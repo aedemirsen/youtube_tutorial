@@ -40,4 +40,5 @@ build/
 
 *idx_*
 /data/nodes/
+mysql_docker_tutorial/mysql
 
